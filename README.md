@@ -1,14 +1,14 @@
-Auditing YouTube’s Content ID System
+## Auditing YouTube’s Content ID System
 
 A Case Study in Algorithmic Governance and Platform Accountability
 
-Project Context
+# Project Context
 
 This project evaluates YouTube’s Content ID system from the perspective of external auditors assessing liability, fairness, and operational risk.
 
 Content ID was developed in 2007 to manage copyright enforcement at massive scale. Today, YouTube receives 500+ hours of video per minute, making human review infeasible. The system relies on automated fingerprinting and predefined enforcement policies to detect and act on copyrighted material.
 
-How the System Works
+# How the System Works
 
 As outlined in our analysis:
 	1.	Rights holders upload reference files.
@@ -18,7 +18,7 @@ As outlined in our analysis:
 
 While efficient, this automation raises governance concerns.
 
-Key Risks Identified
+# Key Risks Identified
 
 1. Automation of Contextual Legal Judgments
 
@@ -40,7 +40,7 @@ The system does not disclose match confidence scores, threshold levels, or refer
 
 Rapid enforcement and DMCA compliance are prioritized over nuanced human review.
 
-Proposed Reforms
+# Proposed Reforms
 
 We proposed five structured reforms:
 	1.	Improve transparency (confidence scores, reference disclosure).
